@@ -10,9 +10,8 @@ High Python also guides users in writing scalable, maintainable code through sol
 ```
 Python's inner workings.
 Python's high-level concepts.
-Print a cheat sheet for this custom GPT.
-Work on Python.
 Develop a new Python library.
+Work on Python.
 ```
 
 #
