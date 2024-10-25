@@ -31,6 +31,10 @@ Beyond basic distribution, PyPI can also significantly impact the visibility and
 [Python Simulator](https://github.com/sourceduty/Python_Simulator)
 <br>
 [Python Machine](https://github.com/sourceduty/Python_Machine)
+<br>
+[Matplotlib Layers](https://github.com/sourceduty/Matplotlib_Layers)
+<br>
+[Automatic Python Libraries](https://github.com/sourceduty/Automatic_Python_Libraries)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
