@@ -7,6 +7,13 @@
 
 High Python also guides users in writing scalable, maintainable code through solution-driven examples and discussions on advanced Python features. It offers expert guidance on using decorators, context managers, and multi-threading, and it brings up Python Enhancement Proposals (PEPs) when they provide valuable context. The tool focuses on efficiency and optimization, helping users improve code performance and readability. In essence, High Python serves as a knowledgeable mentor for developers looking to deepen their understanding of Python and make the most of the language’s capabilities.
 
+```
+Python's inner workings.
+Python's high-level concepts.
+Print a cheat sheet for this custom GPT.
+Work on Python.
+```
+
 #
 ### Related Links
 
