@@ -23,7 +23,7 @@ Beyond basic distribution, PyPI can also significantly impact the visibility and
 
 #
 
-Alex: "*The high-level model mappings of Python architecture aren't easily or entirely defined.*"
+> Alex: "*The high-level model mappings of Python architecture aren't easily or entirely defined.*"
 
 #
 ### Related Links
