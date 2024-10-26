@@ -36,6 +36,13 @@ I/O-bound tasks benefit from parallelism or concurrency when handling a large nu
 However, for smaller tasks with limited I/O requirements, parallelism often adds unnecessary complexity without substantial performance gain. Sequential processing is generally sufficient when handling a handful of I/O operations, such as reading a few files or making fewer than 10 API calls, especially if there are no latency constraints. Additionally, in scenarios where latency is not critical, like non-time-sensitive batch processing, the simplicity of sequential processing can be preferable, making code easier to debug and maintain.
 
 #
+### Money
+
+Python library companies make money primarily through a combination of commercial licensing, support services, and enterprise solutions. Many of these companies develop open-source libraries, which are freely available, but they offer premium versions with advanced features, improved performance, or additional modules that require a paid license. This business model, known as “open-core,” allows them to attract users through the free version while monetizing those who need more capabilities or enterprise-level functionalities. Additionally, companies often provide commercial support and consulting services, helping organizations implement and optimize their use of the libraries, which generates significant revenue.
+
+Another key source of income is partnerships and integrations with other software companies or platforms. Python library companies collaborate with cloud service providers, database companies, and tech firms to integrate their libraries into broader ecosystems, creating value for larger enterprises that pay for such bundled services. Training programs, workshops, and certification courses are also monetized, as companies and developers seek expertise in these libraries. By offering training and professional development, these companies build a community around their products, ensuring continued use and creating additional revenue streams from education and certification services.
+
+#
 
 > Alex: "*The high-level model mappings of Python architecture aren't easily or entirely defined.*"
 
