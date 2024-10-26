@@ -39,7 +39,7 @@ However, for smaller tasks with limited I/O requirements, parallelism often adds
 
 > Alex: "*The high-level model mappings of Python architecture aren't easily or entirely defined.*"
 
-> "*My development of Python is slow because it's unpaid.*"
+> "*My development of Python modules and libraries is slow because it's unpaid.*"
 
 #
 ### Related Links
