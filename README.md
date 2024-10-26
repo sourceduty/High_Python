@@ -50,7 +50,7 @@ However, for smaller tasks with limited I/O requirements, parallelism often adds
 <br>
 [Python Machine](https://github.com/sourceduty/Python_Machine)
 <br>
-[Matplotlib Layers](https://github.com/sourceduty/Matplotlib_Layers)
+[Matplotlib](https://github.com/sourceduty/Matplotlib)
 <br>
 [Automatic Python Libraries](https://github.com/sourceduty/Automatic_Python_Libraries)
 <br>
