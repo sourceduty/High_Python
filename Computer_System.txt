@@ -1,0 +1,33 @@
+Computer System
+|
++-- Hardware Level
+| +-- Physical components (CPU, Memory, I/O devices)
+| +-- Executes basic machine instructions
+|
++-- Microarchitecture Level
+| +-- Processor organization (registers, ALUs, pipelines)
+| +-- Data flow management within the processor
+|
++-- Instruction Set Architecture (ISA) Level
+| +-- Interface between hardware and software
+| +-- Machine instructions, addressing modes, data types
+|
++-- Operating System Level
+| +-- Manages hardware resources (processes, memory, devices)
+| +-- Provides services for application software
+|
++-- System Software Level
+| +-- Compilers, assemblers, loaders
+| +-- Bridges high-level programming and machine code
+|
++-- Application Software Level
+| +-- User-oriented programs (word processors, web browsers)
+| +-- Relies on OS and libraries
+|
++-- Algorithmic/Program Level
+| +-- High-level programming logic and structure
+| +-- Focus on problem-solving and algorithms
+|
++-- Conceptual/Problem-Space Level
++-- User needs and system requirements
++-- Maps real-world problems into computational solutions
